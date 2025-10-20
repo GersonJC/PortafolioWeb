@@ -42,7 +42,7 @@ backend/__queuestorage__/
 backend/__azurite_db*__.json
 
 # IDE
-.vscode/
+
 .idea/
 *.swp
 *.swo
